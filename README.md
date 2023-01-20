@@ -23,7 +23,7 @@ wait out 2b2t's queue system.
 
 To set up the 3arthh4ck proxy you need a server, I personally started out using [GCP's](https://cloud.google.com/) free
 trial. The location of that server should be as close as possible to the one you want to play on. That server should 
-have an Ip and port which are reachable from the outside. The game will run on that server. Keep in mind that no matter
+have an ip and port which are reachable from the outside. The game will run on that server. Keep in mind that no matter
 which account you use on your client, the Minecraft account on the server will always be used when you play.
 
 ### Setup with docker
